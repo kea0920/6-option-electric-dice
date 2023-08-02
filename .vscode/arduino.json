@@ -1,0 +1,5 @@
+{
+    "sketch": "electric_dice_Serial.ino",
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano"
+}
